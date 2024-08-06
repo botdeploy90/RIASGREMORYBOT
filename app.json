@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "TOXXIC MD",
+        "value": "𝛭𝛪𝑆𝑇𝛯𝑅 𝑆𝛨𝑈𝐵𝛨𝛥𝛭",
         "required": true
       },
   
@@ -50,7 +50,7 @@
       "READ_COMMAND": {
         "description": " Read bot cmds",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "WARN_COUNT": {
         "description": " Warn count for users to kick/block when warn limit exceed!",
